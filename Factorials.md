@@ -17,6 +17,7 @@ In math, the exclamation point (!) tells you to take the *factorial* of the numb
 - 16,384! has **61,937** digits
 - 32,768! has **133,734** digits
 - 65,536! has **287,194** digits
+- 99,999! has **456,569** digits
 - 131,072! has **613,841** digits
 - 262,144! has **1,306,594** digits
 - 524,288! has **2,771,010** digits
